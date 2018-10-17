@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotSoEasyStream</string>
+    <string name="logo">SocialCops</string>
+    <string name="media_url_mp4">https://socialcops.com/images/old/spec/home/header-img-background_video-1920-480.mp4</string>
+    <string name="player_activity_name">Media player</string>
+</resources>
